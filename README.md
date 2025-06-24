@@ -1,7 +1,32 @@
 # 👋 Hello, I'm Jinju (Focusmee)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&width=435&lines=全栈开发工程师;Java+后端专家;物联网开发者;持续学习者" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=&height=100&section=header&fontSize=16&fontAlign=50&fontAlignY=40&desc=&descAlign=50&descAlignY=60"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%3C+%2F+%3E+全栈开发工程师+%3C+%2F+%3E;%7B+Java+后端专家+%7D;%5B+物联网开发者+%5D;(+持续学习者+)">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=100&lines=%3C+%2F+%3E+全栈开发工程师+%3C+%2F+%3E;%7B+Java+后端专家+%7D;%5B+物联网开发者+%5D;(+持续学习者+)" alt="Typing SVG" />
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF6B6B&background=00000000&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World!%22);console.log('Welcome+to+my+GitHub');echo+%22Code+%7C+Create+%7C+Innovate%22" alt="Code Animation" />
+</div>
+
+<div align="center">
+  <img width="800" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+</div>
+
+<div align="center">
+  
+  ![Matrix](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=1000&pause=0&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&width=1000&height=50&lines=01001000+01100101+01101100+01101100+01101111+00100000+01010111+01101111+01110010+01101100+01100100;Loading...+████████████████████████+100%25;[+WELCOME+TO+THE+MATRIX+]))
+
 </div>
 
 ## 🚀 关于我
@@ -98,11 +123,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Focusmee&theme=radical" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub 奖杯
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Focusmee&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
 
 ## 🌐 联系我
 
@@ -110,7 +131,7 @@
   
 [![Blog](https://img.shields.io/badge/个人博客-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://focusmee.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Focusmee)
-[![Email](https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JinjuSeason@gmail.com)
 
 </div>
 
