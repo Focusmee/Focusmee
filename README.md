@@ -4,43 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&height=100&section=header&fontSize=40"/>
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F5FF&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=👨‍💻+全栈开发工程师;🚀+Java+后端专家;🔗+物联网开发者;📚+技术博客作者">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=👨‍💻+全栈开发工程师;🚀+Java+后端专家;🔗+物联网开发者;📚+技术博客作者" alt="Typing SVG" />
-  </picture>
-</div>
 
-## 🚀 关于我
-
-```javascript
-const jinju = {
-    code: ["Java", "TypeScript", "JavaScript", "Python", "Go"],
-    askMeAbout: ["Java后端开发", "物联网技术", "分布式系统", "微服务架构"],
-    technologies: {
-        backEnd: {
-            java: ["Spring Boot", "Spring Cloud", "MyBatis", "JPA"],
-            databases: ["PostgreSQL", "MySQL", "Redis", "MongoDB"],
-            messageQueue: ["MQTT", "RabbitMQ", "Kafka"],
-            tools: ["Maven", "Gradle", "Docker", "Jenkins"]
-        },
-        frontEnd: {
-            js: ["TypeScript", "JavaScript", "Vue.js", "React"],
-            mobile: ["Uni-app", "微信小程序", "Android"],
-            css: ["SCSS", "Tailwind CSS", "Element UI"]
-        },
-        iot: {
-            protocols: ["MQTT", "HTTP", "WebSocket", "TCP/IP"],
-            hardware: ["Arduino", "Raspberry Pi", "ESP32"],
-            platforms: ["EMQX", "阿里云IoT", "腾讯云IoT"]
-        },
-        devOps: ["Docker", "Kubernetes", "CI/CD", "GitHub Actions"],
-        cloudServices: ["阿里云", "腾讯云", "AWS"]
-    },
-    currentFocus: "分布式系统设计与物联网架构",
-    funFact: "热爱编程，享受解决复杂问题的成就感 💻"
-};
-```
 
 ## 🛠️ 技术栈
 
@@ -178,7 +142,6 @@ const jinju = {
 
 [![个人博客](https://img.shields.io/badge/个人博客-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://focusmee.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Focusmee)
-[![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=for-the-badge&logo=c&logoColor=white)](https://blog.csdn.net/focusmee)
 [![Email](https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2105735259@qq.com)
 
 </div>
