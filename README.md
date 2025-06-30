@@ -4,7 +4,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello%20World!&height=100&section=header&fontSize=40"/>
 </div>
 
+## 🚀 关于我
 
+- 🔭 专注于 **Java 后端开发** 和 **物联网技术**
+- 🌱 目前正在深入学习 **分布式系统** 和 **微服务架构**  
+- 💬 可以和我讨论 **Java**、**TypeScript**、**物联网**、**系统设计**
+- 📝 在 [个人博客](https://focusmee.github.io) 分享技术心得和学习笔记
+- ⚡ 热爱编程，享受解决复杂问题的成就感
 
 ## 🛠️ 技术栈
 
